@@ -1,4 +1,8 @@
-﻿using System;
+﻿//
+//Author: Gael Le Guellec
+//Date: 11-15-2013
+//
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
